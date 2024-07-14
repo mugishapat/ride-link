@@ -1,0 +1,20 @@
+.book-ride-btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s;
+}
+
+.book-ride-btn:hover {
+    background-color: #0056b3;
+}
+
+.book-ride-btn i {
+    font-size: 20px;
+    line-height: 40px;
+}
